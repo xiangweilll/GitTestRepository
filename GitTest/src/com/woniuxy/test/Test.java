@@ -28,4 +28,9 @@ public class Test {
 	public void fun5() {
 		System.out.println("hello word");
 	}
+	//程序员1
+	public void fun6() {
+		
+	}
+	
 }

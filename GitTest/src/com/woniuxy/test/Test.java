@@ -28,4 +28,8 @@ public class Test {
 	public void fun5() {
 		System.out.println("hello word");
 	}
+	
+	public void fun7() {
+		System.out.println("程序员2修改的");
+	}
 }

@@ -13,4 +13,7 @@ public class Test {
 	public void fun3() {
 		System.out.println("hello word");
 	}
+	public void fun4() {
+		System.out.println("hello word");
+	}
 }
